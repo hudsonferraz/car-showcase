@@ -1,4 +1,8 @@
+<img src="/public/car-showcase.png" width="60%" height="60%"/>
+
 This is a project made to practice API consumption featuring Next.js 13, App Router, SSR, Advanced Search Functionality and Filtering
+
+## You can see this project running live [here](https://hudson-car-showcase.vercel.app/).
 
 ### Prerequisites
 
